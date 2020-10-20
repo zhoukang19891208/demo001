@@ -1,1 +1,2 @@
-this is first file,file name is file1.txt
+this is first file,file name is file1.txt.
+this is second time to open this file.
